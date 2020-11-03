@@ -1,6 +1,6 @@
 # Link Prediction in Citation Networks
 
-A set of methods and model evaluation metrics for predicting links in an academic citation network.
+A set of methods and model evaluation metrics for predicting links in an academic citation network using Apache Spark and Scala.
 
 ### Description
 In this experimental study we develop methods and try to evaluate models for predicting links in an academic citation network, by taking two different aspects into consideration: 
