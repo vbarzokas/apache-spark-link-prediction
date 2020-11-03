@@ -13,7 +13,7 @@ set. For the second aspect we relied mainly on [Jaccard
 Similarity](https://en.wikipedia.org/wiki/Jaccard_index) of the [MinHash LSH](https://en.wikipedia.org/wiki/MinHash) of each paper’s abstract which
 had being vectorized using [TF-IDF](https://en.wikipedia.org/wiki/Tf%E2%80%93idf).
 
-For more detailed information check the [draft paper](./Draft Paper - Barzokas - Link Prediction.pdf). 
+For more detailed information check the [draft paper](https://github.com/vbarzokas/apache-spark-link-prediction/blob/main/Draft%20Paper%20-%20Barzokas%20-%20Link%20Prediction.pdf). 
 
 #### Prerequisites
 * [Apache Spark 2.4.0](https://spark.apache.org/releases/spark-release-2-4-0.html)
